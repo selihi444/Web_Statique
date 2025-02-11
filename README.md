@@ -1,2 +1,2 @@
-# Web_Statique
-Mes projets Web statiques 
+### Description du Projet  
+Ce projet est une page web statique de documentation JavaScript, conçue pour être **responsive**. Pour les écrans de moins de 400px, la barre de navigation passe d'une disposition **verticale** à **horizontale** pour une meilleure expérience utilisateur. La page est optimisée pour tous les appareils, avec des exemples de code et une navigation intuitive.
